@@ -1,0 +1,50 @@
+*{
+    font-family: 'Montserrat';
+  }
+  body{
+    background: url('https://unsplash.com/photos/_8hGFBxWD0A/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTR8fGRhcmslMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTY2NTY1MTgzNA&force=true&w=1920');
+    color: white;
+  }
+  .navigation li{
+   display: inline-block;
+   display: block;
+   color: #766b6b;
+   text-align: left;
+   padding: 9px 11px;
+   text-decoration: none; 
+  }
+  .navigation a:hover{
+    color: green;
+  }
+  .navigation{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  .project{
+    font-size: large;
+    padding: 7px;
+  }
+  .project h3{
+    text-align: center;
+    font-weight: bold;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .header h1{
+   color: white;
+    text-align: center;
+    font-family: alpha slab one;
+  }
